@@ -1,7 +1,5 @@
 # Welcome to your Expo app 👋
-Tab hola mundo:
 ![image](https://github.com/user-attachments/assets/71b2db23-4588-4977-84e8-cc1179b1a271)
-nuevo tab:
 ![image](https://github.com/user-attachments/assets/35026ed8-c664-499c-b601-0cfcee6e385b)
 
 
